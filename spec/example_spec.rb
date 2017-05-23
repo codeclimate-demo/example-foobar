@@ -1,5 +1,4 @@
 require "spec_helper"
-require_relative "../example"
 
 describe "Example" do
   describe "#answer" do
