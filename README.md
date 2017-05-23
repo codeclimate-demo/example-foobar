@@ -18,7 +18,7 @@ status.
 You should now see green annotations which mean those lines are now covered by
 tests!
 
-1. Add and commit [duplication.rb](https://gist.github.com/dblandin/589e70345774298e1622850349c31876#file-duplication-rb) and [duplication_2.rb](https://gist.github.com/dblandin/589e70345774298e1622850349c31876#file-duplication_2-rb)
+1. Modify and commit [duplication.rb](https://gist.github.com/dblandin/589e70345774298e1622850349c31876#file-duplication-rb) and [duplication_2.rb](https://gist.github.com/dblandin/589e70345774298e1622850349c31876#file-duplication_2-rb)
 1. Push to fork PR branch
 
 You should now see duplication issues reported by Code Climate.
